@@ -1,0 +1,1 @@
+This is a solution to <a href="http://projecteuler.net/problem=4"> Project Euler Problem 4</a>. It was written in C# and compiled with Visual Studio 2010 Express.
